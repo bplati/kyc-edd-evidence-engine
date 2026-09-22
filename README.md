@@ -40,6 +40,6 @@ For intellectual property and security reasons, the underlying codebase is maint
 ## 👤 Author & Access Requests
 
 **Bogdan Plationov**  
-*AML & Compliance Professional | Financial Crime Risk & Process Automation*  
+*AML & Compliance Professional | Financial Crime Risk*
 * **LinkedIn:** [linkedin.com/in/plationov](https://linkedin.com/in/plationov)
 * **Email:** b.plationov@live.com
